@@ -1,6 +1,7 @@
 <div style="text-align: center;">
   <img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="400" height="200"/>
 </div>
+
 # 💫 Hi, I'm Shriniket! :
 
     - 🔭 Currently working on **AI-powered solutions** in healthcare and finance<br>
