@@ -1,4 +1,4 @@
-![logo](https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif)
+<img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="400"/>
 
 # 💫 Hi, I'm Shriniket! :
 
