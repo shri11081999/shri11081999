@@ -3,12 +3,16 @@
 </div>
 
 
-# 💫 Hi, I'm Shriniket! :
+## 🚀 About Me
 
-    - 🔭 Currently working on **AI-powered solutions** in healthcare and finance
-    - 🌱 I’m currently learning: Deep learning applications in finance and reinforcement learning strategies.
-    - 🤔 I’m looking for help with: Connecting with others in the AI and finance space to explore new opportunities.
-    - 📫 How to reach me: dixitshriniket976@gmail.com
+- 🔭 Currently working on: AI projects in healthcare and finance, as well as space technology research.
+- 🌱 Currently learning: Advanced AI techniques to apply in healthcare and finance.
+- 👯 Looking to collaborate on: AI projects in healthcare, finance, or space research.
+- 💬 Ask me about: AI in healthcare, finance, and image processing.
+- 📫 How to reach me: dixitshriniket@gmail.com
+- ⚡ Fun fact: I love martial arts and won 3rd place in an international karate championship!
+
+## 🛠️ Technologies & Tools
 
 
 ## 🌐 Socials:
