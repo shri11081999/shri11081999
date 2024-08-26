@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 Hi, I'm Shriniket! :
+<img src="![gre (1)](https://github.com/user-attachments/assets/445bf49d-51ec-4da2-9ba2-6ade9c9de986)f" alt="Hi, I'm Shriniket!" width="500"/>
+
 - 🔭 Currently working on **AI-powered solutions** in healthcare and finance<br>- 🌱 I’m currently learning: Deep learning applications in finance and reinforcement learning strategies.<br>- 🤔 I’m looking for help with: Connecting with others in the AI and finance space to explore new opportunities.<br>- 📫 How to reach me: dixitshriniket976@gmail.com
 
 
