@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-  <img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="400" height="200"/>
+  <img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="400" height="200" style="border-radius: 15px; border: 2px solid #f1f1f1; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); padding: 10px;"/>
 </div>
+
 
 # 💫 Hi, I'm Shriniket! :
 
