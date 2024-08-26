@@ -1,11 +1,8 @@
+![logo](https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif)
+
 # 💫 Hi, I'm Shriniket! :
 
-<img align="right" alt="coding" width ="400" src="![gre (1)](https://github.com/user-attachments/assets/445bf49d-51ec-4da2-9ba2-6ade9c9de986)f
 
-
-https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif?raw=true
-
-![image](https://github.com/user-attachments/assets/eb700e5a-e239-41e5-8933-d120c7a468d9)
 
 - 🔭 Currently working on **AI-powered solutions** in healthcare and finance<br>- 🌱 I’m currently learning: Deep learning applications in finance and reinforcement learning strategies.<br>- 🤔 I’m looking for help with: Connecting with others in the AI and finance space to explore new opportunities.<br>- 📫 How to reach me: dixitshriniket976@gmail.com
 
