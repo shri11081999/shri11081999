@@ -2,18 +2,12 @@
   <img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="500" height="400" style="border-radius: 15px; border: 2px solid #f1f1f1; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); padding: 10px;"/>
 </div>
 
+## 💫 Hi, I'm Shriniket! :
 
-## 🚀 About Me
-
-- 🔭 Currently working on: AI projects in healthcare and finance, as well as space technology research.
-- 🌱 Currently learning: Advanced AI techniques to apply in healthcare and finance.
-- 👯 Looking to collaborate on: AI projects in healthcare, finance, or space research.
-- 💬 Ask me about: AI in healthcare, finance, and image processing.
-- 📫 How to reach me: dixitshriniket@gmail.com
-- ⚡ Fun fact: I love martial arts and won 3rd place in an international karate championship!
-
-## 🛠️ Technologies & Tools
-
+- 🔭 Currently working on **AI-powered solutions** in healthcare and finance.
+- 🌱 Currently learning: ML applications in finance and reinforcement learning strategies.
+- 👯 Looking to collaborate on: AI and finance space to explore new opportunities.
+- 📫 How to reach me: dixitshriniket976@gmail.com
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shridixit9897) 
