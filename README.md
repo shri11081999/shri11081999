@@ -1,11 +1,16 @@
-<img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="400"/>
-
 # 💫 Hi, I'm Shriniket! :
 
-
-
-- 🔭 Currently working on **AI-powered solutions** in healthcare and finance<br>- 🌱 I’m currently learning: Deep learning applications in finance and reinforcement learning strategies.<br>- 🤔 I’m looking for help with: Connecting with others in the AI and finance space to explore new opportunities.<br>- 📫 How to reach me: dixitshriniket976@gmail.com
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    - 🔭 Currently working on **AI-powered solutions** in healthcare and finance<br>
+    - 🌱 I’m currently learning: Deep learning applications in finance and reinforcement learning strategies.<br>
+    - 🤔 I’m looking for help with: Connecting with others in the AI and finance space to explore new opportunities.<br>
+    - 📫 How to reach me: dixitshriniket976@gmail.com
+  </div>
+  <div>
+    <img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="200"/>
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shridixit9897) 
