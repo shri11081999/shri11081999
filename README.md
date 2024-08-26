@@ -1,4 +1,4 @@
-<img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="800" height="500"/>
+<img src="https://github.com/shri11081999/shri11081999/blob/main/gre%20(1).gif" alt="Hi, I'm Shriniket!" width="500" height="400"/>
 
 # 💫 Hi, I'm Shriniket! :
 
