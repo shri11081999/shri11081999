@@ -5,9 +5,9 @@
 
 # 💫 Hi, I'm Shriniket! :
 
-    - 🔭 Currently working on **AI-powered solutions** in healthcare and finance<br>
-    - 🌱 I’m currently learning: Deep learning applications in finance and reinforcement learning strategies.<br>
-    - 🤔 I’m looking for help with: Connecting with others in the AI and finance space to explore new opportunities.<br>
+    - 🔭 Currently working on **AI-powered solutions** in healthcare and finance
+    - 🌱 I’m currently learning: Deep learning applications in finance and reinforcement learning strategies.
+    - 🤔 I’m looking for help with: Connecting with others in the AI and finance space to explore new opportunities.
     - 📫 How to reach me: dixitshriniket976@gmail.com
 
 
